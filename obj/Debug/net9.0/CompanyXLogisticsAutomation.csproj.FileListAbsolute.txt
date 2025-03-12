@@ -1,0 +1,14 @@
+C:\Users\Zinaxy\desktop\c#\CompanyXLogisticsAutomation\obj\Debug\net9.0\CompanyXLogisticsAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zinaxy\desktop\c#\CompanyXLogisticsAutomation\obj\Debug\net9.0\CompanyXLogisticsAutomation.AssemblyInfoInputs.cache
+C:\Users\Zinaxy\desktop\c#\CompanyXLogisticsAutomation\obj\Debug\net9.0\CompanyXLogisticsAutomation.AssemblyInfo.cs
+C:\Users\Zinaxy\desktop\c#\CompanyXLogisticsAutomation\obj\Debug\net9.0\CompanyXLogisticsAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Zinaxy\desktop\c#\CompanyXLogisticsAutomation\bin\Debug\net9.0\CompanyXLogisticsAutomation.exe
+C:\Users\Zinaxy\desktop\c#\CompanyXLogisticsAutomation\bin\Debug\net9.0\CompanyXLogisticsAutomation.deps.json
+C:\Users\Zinaxy\desktop\c#\CompanyXLogisticsAutomation\bin\Debug\net9.0\CompanyXLogisticsAutomation.runtimeconfig.json
+C:\Users\Zinaxy\desktop\c#\CompanyXLogisticsAutomation\bin\Debug\net9.0\CompanyXLogisticsAutomation.dll
+C:\Users\Zinaxy\desktop\c#\CompanyXLogisticsAutomation\bin\Debug\net9.0\CompanyXLogisticsAutomation.pdb
+C:\Users\Zinaxy\desktop\c#\CompanyXLogisticsAutomation\obj\Debug\net9.0\CompanyXLogisticsAutomation.dll
+C:\Users\Zinaxy\desktop\c#\CompanyXLogisticsAutomation\obj\Debug\net9.0\refint\CompanyXLogisticsAutomation.dll
+C:\Users\Zinaxy\desktop\c#\CompanyXLogisticsAutomation\obj\Debug\net9.0\CompanyXLogisticsAutomation.pdb
+C:\Users\Zinaxy\desktop\c#\CompanyXLogisticsAutomation\obj\Debug\net9.0\CompanyXLogisticsAutomation.genruntimeconfig.cache
+C:\Users\Zinaxy\desktop\c#\CompanyXLogisticsAutomation\obj\Debug\net9.0\ref\CompanyXLogisticsAutomation.dll
